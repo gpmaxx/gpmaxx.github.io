@@ -1,6 +1,6 @@
 ---
 layout: infopage
-title: Site Credits
+title: About
 ---
 
 ## Construction  

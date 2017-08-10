@@ -18,7 +18,7 @@ Greg is an all around cool guy.
 **Theme:**		[Jekyll-Now](https://github.com/barryclark/jekyll-now){:target="_blank"}     
 **Plugins:**	[Jekyll-paginate](https://rubygems.org/gems/jekyll-paginate){:target="_blank"},
                 [jemoji](https://rubygems.org/gems/jemoji){:target="_blank"},
-				[Jekyll-sitema](https://rubygems.org/gems/jekyll-sitemap){:target="_blank"},
+				[Jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap){:target="_blank"},
 				[Jekyll-feed](https://rubygems.org/gems/jekyll-feed){:target="_blank"}     
 **Hosting:**	[GitHub](https://github.com/){:target="_blank"}     
 **Comments:**	[Disqus](https://disqus.com/){:target="_blank"}   

@@ -16,9 +16,9 @@ Greg is an all around cool guy.
   
 **Framework:** 	[Jekyll](https://jekyllrb.com/){:target="_blank"}     
 **Theme:**		[Jekyll-Now](https://github.com/barryclark/jekyll-now){:target="_blank"}     
-**Plugins:**	[Jekyll-paginate](https://rubygems.org/gems/jekyll-paginate){:target="_blank"},  
-                [jemoji](https://rubygems.org/gems/jemoji){:target="_blank"},  
-				[Jekyll-sitema](https://rubygems.org/gems/jekyll-sitemap){:target="_blank"},  
+**Plugins:**	[Jekyll-paginate](https://rubygems.org/gems/jekyll-paginate){:target="_blank"},
+                [jemoji](https://rubygems.org/gems/jemoji){:target="_blank"},
+				[Jekyll-sitema](https://rubygems.org/gems/jekyll-sitemap){:target="_blank"},
 				[Jekyll-feed](https://rubygems.org/gems/jekyll-feed){:target="_blank"}     
 **Hosting:**	[GitHub](https://github.com/){:target="_blank"}     
 **Comments:**	[Disqus](https://disqus.com/){:target="_blank"}   
@@ -36,7 +36,7 @@ All icon images adapted by Greg Lipscomb from source resources:
 **Instagram:**  [https://itunes.apple.com/us/app/instagram/id389801252?mt=8](https://itunes.apple.com/us/app/instagram/id389801252?mt=8){:target="_blank"}     
 **LinkedIn:**	[https://brand.linkedin.com/downloads](https://brand.linkedin.com/downloads){:target="_blank"}  
 **GitHub:**		[https://github.com/logos](https://github.com/logos){:target="_blank"}  
-**Email:**		[Vecteezy.com](https://www.Vecteezy.com/){:target="_blank" rel="nofollow"} 
+**Email:**		[Vecteezy.com](https://www.Vecteezy.com/){:target="_blank" rel="nofollow"}   
 **Blog:**		Icon made by [Freepik](http://www.freepik.com){:target="_blank"} from [Flaticon](www.flaticon.com){:target="_blank"} and is licensed by [CC 3.0](http://creativecommons.org/licenses/by/3.0/){:target="_blank"}
 
 ### Photos

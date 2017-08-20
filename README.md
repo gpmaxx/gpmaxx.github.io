@@ -1,2 +1,0 @@
-# gpmaxx.github.io
-Website
